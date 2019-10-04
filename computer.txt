@@ -4,3 +4,7 @@ X1
 FM-7
 
 [プログラミング言語]
+Python
+Ruby
+R
+PHP
