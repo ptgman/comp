@@ -1,6 +1,13 @@
 [パソコン]
+*8bit
 PC-8801
 X1
 FM-7
+
+*16bit
+X68000
+PC-9801
+Amiga 500
+Macintosh SE/30
 
 [プログラミング言語]
