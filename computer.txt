@@ -11,3 +11,10 @@ Amiga 500
 Macintosh SE/30
 
 [プログラミング言語]
+Python
+Ruby
+R
+PHP
+Go
+Java
+C++
